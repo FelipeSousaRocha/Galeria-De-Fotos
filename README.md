@@ -17,4 +17,6 @@ npm run dev
 npm install -D tailwindcss
 npx tailwindcss init
 npm install uuid
+npm install -D @types/uuid
+npm install firebase
 ```
