@@ -2,7 +2,9 @@
 App 
 
 # Criar aplicação
+```bash
 npm init vite
+```
 
 # Rodar aplicação
 ```bash
